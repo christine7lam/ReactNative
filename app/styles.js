@@ -6,7 +6,5 @@ export const appStyle = {
   },
   resultImage: {
     height: 150,
-    width: auto,
   }
-
 }
